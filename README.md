@@ -3,7 +3,7 @@
 🎓 Engineering student from Nagpur, Maharashtra  
 💻 Skilled in **C++ programming** (inheritance, operator overloading, data structures)  
 📊 Passionate about **sustainable cities & communities**  
-🏏 Cricket enthusiast (IPL & World Cup follower 
+🏏 Cricket enthusiast
 
 ## 🚀 Skills
 - C++ (OOP, Data Structures, Algorithms)
